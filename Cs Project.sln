@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "틀린그림찾기", "Cs Project\틀린그림찾기.csproj", "{C641C116-7367-4DD1-AF65-6F29127050B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeper", "MineSweeper\MineSweeper.csproj", "{1D1D539C-BD46-4AF6-90D8-A1BD8865409E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omok", "Omok\Omok.csproj", "{A364D62D-55AC-446E-BC0A-8C13D39D7170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "오델로", "오델로\오델로.csproj", "{89ADC0E0-7037-4488-AFDF-0A8B64C8296E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C641C116-7367-4DD1-AF65-6F29127050B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C641C116-7367-4DD1-AF65-6F29127050B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C641C116-7367-4DD1-AF65-6F29127050B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C641C116-7367-4DD1-AF65-6F29127050B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1D539C-BD46-4AF6-90D8-A1BD8865409E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1D539C-BD46-4AF6-90D8-A1BD8865409E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1D539C-BD46-4AF6-90D8-A1BD8865409E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1D539C-BD46-4AF6-90D8-A1BD8865409E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A364D62D-55AC-446E-BC0A-8C13D39D7170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A364D62D-55AC-446E-BC0A-8C13D39D7170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A364D62D-55AC-446E-BC0A-8C13D39D7170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A364D62D-55AC-446E-BC0A-8C13D39D7170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89ADC0E0-7037-4488-AFDF-0A8B64C8296E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ADC0E0-7037-4488-AFDF-0A8B64C8296E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ADC0E0-7037-4488-AFDF-0A8B64C8296E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ADC0E0-7037-4488-AFDF-0A8B64C8296E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
